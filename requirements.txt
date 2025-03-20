@@ -1,3 +1,5 @@
 networkx
 seaborn
 matplotlib
+scipy
+numpy
